@@ -52,10 +52,10 @@ And Alt+Shift+JLIK to:
 We offer some alternatives to the Emacs commands associated with these
 overriden keybindings:
 
-* ~~`M-j`~~ : `indent-new-comment-line`, use `C-M-j` instead
-* ~~`M-l`~~ : `downcase-word`, use `C-M-l` instead
-* ~~`M-i`~~ : `tab-to-tab-stop`, use `C-M-i` instead
-* ~~`M-k`~~ : `kill-sentence`, use `C-M-k` instead
+* ~~`M-j`~~ : `indent-new-comment-line`, use `ESC M-j` instead
+* ~~`M-l`~~ : `downcase-word`, use `ESC M-l` instead
+* ~~`M-i`~~ : `tab-to-tab-stop`, use `ESC M-i` instead
+* ~~`M-k`~~ : `kill-sentence`, use `ESC M-k` instead
 
 If you learn these new shortcuts, you will already be able to replace
 a big chunk of ackward Emacs keyboard shortcuts. After you get used to
@@ -107,7 +107,7 @@ important ones at this moment are:
 Overriden shortcuts:
 
 * ~~`M-m`~~ : `back-to-indentation`, use `M-m h` instead
-* ~~`C-M-l`~~ : this one was introduced to replace the old ~~`M-l`~~ (`downcase-word`), now you can use `M-m c k`
+* ~~`ESC M-l`~~ : this one was introduced to replace the old ~~`M-l`~~ (`downcase-word`), now you can use `M-m c k`
 
 Get used to the new `M-M` so you don't have to use `M-x` to execute
 commands in the future (`execute-extended-command`).
