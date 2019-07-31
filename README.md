@@ -46,8 +46,8 @@ And Alt+Shift+JLIK to:
 
 * `M-J` : `backward-sexp`
 * `M-L` : `forward-sexp`
-* `M-I` : `handy-page-up` (it's `scroll-down` or `cua-scroll-down`)
-* `M-K` : `handy-page-down` (it's `scroll-up` or `cua-scroll-up`)
+* `M-I` : `scroll-down-command`
+* `M-K` : `scroll-up-command`
 
 We offer some alternatives to the Emacs commands associated with these
 overriden keybindings:
