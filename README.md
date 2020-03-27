@@ -42,7 +42,7 @@ In this level, `Alt+JLIK` will be associated to these commands:
 * `M-i` : `previous-line`
 * `M-k` : `next-line`
 
-And Alt+Shift+JLIK to:
+And `Alt+Shift+JLIK` to:
 
 * `M-J` : `backward-sexp`
 * `M-L` : `forward-sexp`
@@ -81,8 +81,8 @@ This mode is defined in [`handy-mode-jlik.el`](handy-mode-jlik.el) file.
 (handy-mode 1)
 ```
 
-The level 1 ([handy-mode-m](handy-mode-m.el)) enables the Alt+M prefix
-which opens a lot of new commands.
+The Level 2 NM enables the `Alt+M` prefix which opens a lot of new
+commands.
 
                 .-----.
                 |     |
@@ -123,7 +123,8 @@ This level is defined in [`handy-mode-nm.el`](handy-mode-nm.el) file.
 (handy-mode 1)
 ```
 
-Enables Alt+UO keys to jump between words or paragraphs (or functions on progmodes):
+Enables `Alt+UO` keys to jump between words or paragraphs (or
+functions on progmodes):
 
           .-----.-----.-----.
           |  U  |     |  O  |
