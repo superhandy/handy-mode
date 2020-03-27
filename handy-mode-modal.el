@@ -21,7 +21,7 @@
 
 (defvar handy-mode-modal-map
   (handy-make-keymap
-   "M-RET" 'handy-switch-state))
+   "M-p" 'handy-switch-state))
 
 (defvar handy-mode-locked-map
   ;; TODO remove the duplication of all keys, iterate all keymaps and
@@ -138,7 +138,7 @@
 (define-minor-mode handy-mode-modal
   "Enables the modal handy-mode.
 
-  M-m RET : `handy-switch-state'
+  M-p : `handy-switch-state'
 "
   :global t
   :group 'handy-mode

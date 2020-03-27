@@ -201,7 +201,7 @@ This level is defined in [`handy-mode-werd.el`](handy-mode-werd.el) file.
 ## Level 7 Modal/RET
 
 This level is defined in [`handy-mode-modal.el`](handy-mode-modal.el)
-file.  Pressing `M-RET` you can lock the `Alt` key so there is no need
+file.  Pressing `M-p` you can lock the `Alt` key so there is no need
 to press `M-` modifier for keyboard shortcuts in all other modes.
 
 This is still a work-in-progress, doesn't work in several modes inside
